@@ -1,0 +1,8 @@
+{
+  "workspaces": [
+    "components/*",
+    "packages/*"
+  ],
+  "private": true,
+  "packageManager": "yarn@3.0.1"
+}

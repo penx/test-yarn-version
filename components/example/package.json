@@ -1,0 +1,8 @@
+{
+  "name": "@example-repo/example-package",
+  "version": "0.9.1",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
